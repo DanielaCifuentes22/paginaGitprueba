@@ -10,3 +10,13 @@ body {
     color: #333;
 }
 
+header {
+    background-color: #1e3a51;
+    color: black;
+    text-align: center;
+    padding: 30 px;
+}
+
+header h1 {
+    margin-bottom: 10 px;
+}
