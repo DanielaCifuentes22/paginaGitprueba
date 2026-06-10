@@ -14,9 +14,21 @@ header {
     background-color: #1e3a51;
     color: black;
     text-align: center;
-    padding: 30 px;
+    padding: 30px;
 }
 
 header h1 {
-    margin-bottom: 10 px;
+    margin-bottom: 10px;
 }
+ nav{
+    background-color: #142841;
+    text-align: center;
+    padding: 15 px;
+ }
+
+ nav a{
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+ }
